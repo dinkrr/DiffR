@@ -1,0 +1,12 @@
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\bin\Debug\net6.0\DiffR.Logic.deps.json
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\bin\Debug\net6.0\DiffR.Logic.dll
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\bin\Debug\net6.0\DiffR.Logic.pdb
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.AssemblyInfoInputs.cache
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.AssemblyInfo.cs
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.dll
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\refint\DiffR.Logic.dll
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\DiffR.Logic.pdb
+C:\Users\Suraj_Kentura\Desktop\ProjectsToSolveDailyIssues\DiffR\DiffR.Logic\obj\Debug\net6.0\ref\DiffR.Logic.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gk3xi3M/mM4L/ILs/9mXnoEvywxXDTAnnEUb2FVNKsOWXzn8uL6S0WtLVhp/M7EYbUTPEwbR+0Qgrf96rZ4/Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Suraj_Kentura\\Desktop\\PersonalProjects\\DiffR\\DiffR.Front\\DiffR.Front.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suraj_Kentura\\.nuget\\packages\\antlr4.runtime.standard\\4.11.1\\antlr4.runtime.standard.4.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
